@@ -18,17 +18,24 @@ This program is designed to simplify the process of taking screenshots, making i
 
 ## How to Use
 
-1. Download the executable file (`screenshoter.exe`) from [here](https://github.com/aiotv1/Full-Screenshoter-One-Click/raw/refs/heads/main/screenshoter.exe).
-2. Run the program by double-clicking `screenshoter.exe`.
-3. A screenshot of your desktop will be captured automatically.
-4. The screenshot will be saved to your desktop with a unique name (e.g., `screenshot1.png`).
+1. Download the executable file (`screenshoter.exe`) from [Releases](https://github.com/aiotv1/Full-Screenshoter-One-Click/releases/tag/tools) section.
+2. **Pin the program to the taskbar**:
+   - Locate the downloaded `screenshoter.exe` file.
+   - Drag and drop the file to your taskbar to pin it for easy access.
+3. **Capture screenshots**:
+   - Click the pinned icon in the taskbar whenever you want to take a screenshot.
+   - A screenshot will be captured automatically and saved to your desktop with a unique name (e.g., `screenshot1.png`).
 
-**Note**: Each time you run the program, a new screenshot will be captured and saved with an incremented number.
 
-## Installation
+> [!NOTE]  
+> Each time you click the program, a new screenshot will be captured and saved with an incremented number.
 
-If you want to modify the script or convert it to an executable file yourself, follow these steps:
+## Download
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aiotv1/Full-Screenshoter-One-Click/tree/main.git
+You can download the latest version of the program from the [Releases](https://github.com/aiotv1/Full-Screenshoter-One-Click/releases/tag/tools) section. 
+
+
+## Project History
+
+- **Creation Date**: 18/01/2024
+- **Published on GitHub**: 18/03/2025
