@@ -1,6 +1,6 @@
 # Full Screenshoter One Click
 
-![image](https://github.com/user-attachments/assets/a65b855f-45cd-494e-a0e0-e407e2cfa664)
+![image](https://github.com/user-attachments/assets/1f6e2dd9-f7b4-4342-a5f4-27a8bcc62300)
 
 
 ## Description
